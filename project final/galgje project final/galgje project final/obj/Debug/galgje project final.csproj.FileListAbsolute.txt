@@ -13,3 +13,18 @@ C:\Users\lenae\Desktop\PXL\werkplek leren\project tests\project final\galgje pro
 C:\Users\lenae\Desktop\PXL\werkplek leren\project tests\project final\galgje project final\galgje project final\obj\Debug\galgje project final.csproj.CoreCompileInputs.cache
 C:\Users\lenae\Desktop\PXL\werkplek leren\project tests\project final\galgje project final\galgje project final\obj\Debug\galgje project final.exe
 C:\Users\lenae\Desktop\PXL\werkplek leren\project tests\project final\galgje project final\galgje project final\obj\Debug\galgje project final.pdb
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\bin\Debug\galgje project final.exe.config
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\bin\Debug\galgje project final.exe
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\bin\Debug\galgje project final.pdb
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\galgje project final.csproj.AssemblyReference.cache
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\MainWindow.g.cs
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\App.g.cs
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\galgje project final_MarkupCompile.cache
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\galgje project final_MarkupCompile.lref
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\MainWindow.baml
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\galgje project final.g.resources
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\galgje_project_final.Properties.Resources.resources
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\galgje project final.csproj.GenerateResource.cache
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\galgje project final.csproj.CoreCompileInputs.cache
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\galgje project final.exe
+C:\Users\lenae\Desktop\try git\test-git\project final\galgje project final\galgje project final\obj\Debug\galgje project final.pdb

@@ -84,7 +84,7 @@ namespace galgje_project_final
             VWBX_RaadButton.Visibility = Visibility.Visible;
             VWBX_SpelerButton.Visibility = Visibility.Collapsed;
             VWBX_SpelersButton.Visibility = Visibility.Collapsed;
-            NieuwSpelButton.Visibility = Visibility.Visible;
+            VWBX_NieuwSpelButton.Visibility = Visibility.Visible;
 
         }
         private void RaadButton_MouseEnter(object sender, MouseEventArgs e)
@@ -126,7 +126,7 @@ namespace galgje_project_final
             VWBX_VerbergWoord.Visibility = Visibility.Visible;
             VWBX_InputBox.Visibility = Visibility.Visible;
             VWBX_ImageGalgje.Visibility = Visibility.Visible;
-            NieuwSpelButton.Visibility = Visibility.Visible;
+            VWBX_NieuwSpelButton.Visibility = Visibility.Visible;
 
         }
 
@@ -174,7 +174,12 @@ namespace galgje_project_final
 
         private void NieuwSpelButton_MouseDown(object sender, MouseButtonEventArgs e)
         {
-
+            VWBX_RaadButton.Visibility = Visibility.Collapsed;
+            VWBX_VerbergWoord.Visibility = Visibility.Collapsed;
+            VWBX_ImageGalgje.Visibility = Visibility.Collapsed;
+            VWBX_SpelerButton.Visibility = Visibility.Visible;
+            VWBX_SpelersButton.Visibility = Visibility.Visible;
+            VWBX_InputBox.Visibility = Visibility.Collapsed;
         }
 
         //methodes
